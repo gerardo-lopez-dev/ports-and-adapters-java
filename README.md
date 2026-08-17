@@ -1,13 +1,13 @@
 # Ports and Adapters - Java
 
-Arquitectura hexagonal (puertos y adaptadores) con Spring Boot.
+Hexagonal architecture (ports and adapters) with Spring Boot.
 
-## Requisitos
+## Requirements
 
 - Java 25+
 - Maven 3.9+
 
-## Ejecutar
+## Run
 
 ```sh
 ./mvnw spring-boot:run
@@ -19,6 +19,6 @@ Arquitectura hexagonal (puertos y adaptadores) con Spring Boot.
 ./mvnw test
 ```
 
-## Licencia
+## License
 
 [MIT](LICENSE)
