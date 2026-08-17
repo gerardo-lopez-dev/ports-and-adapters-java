@@ -34,3 +34,8 @@ build/
 
 ### Docker ###
 docker-compose.override.yml
+
+### Tools ###
+.opencode/node_modules
+.serena/cache
+graphify-out/cache
