@@ -1,0 +1,2 @@
+# Production — zero defaults.
+# Missing env vars → app fails to start (fail loudly).

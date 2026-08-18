@@ -1,3 +1,8 @@
 spring:
   application:
     name: ports-and-adapters-java
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:local}
+
+server:
+  port: ${SERVER_PORT:8080}
