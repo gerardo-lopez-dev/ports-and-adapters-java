@@ -1,3 +1,11 @@
 spring:
   application:
     name: ports-and-adapters-java
+  profiles:
+    # No default: if SPRING_PROFILES_ACTIVE is unset, Spring fails
+    # to start instead of silently falling back to "local".
+    active: ${SPRING_PROFILES_ACTIVE}
+
+# NOTE: server.port was moved to each profile (local/dev/prod).
+# Leaving it here with a default (${SERVER_PORT:8080}) caused prod to inherit
+# a default port even though prod.yaml says "zero defaults".

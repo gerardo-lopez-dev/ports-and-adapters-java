@@ -32,10 +32,15 @@ build/
 ### VS Code ###
 .vscode/
 
+### Environment ###
+.env
+.env.local
+.env.production
+
 ### Docker ###
 docker-compose.override.yml
 
 ### Tools ###
 .opencode/node_modules
 .serena/cache
-graphify-out/cache
+graphify-out/

@@ -1,0 +1,10 @@
+# Local development with docker-compose
+# Safe defaults for localhost — no secrets here.
+
+server:
+  port: ${SERVER_PORT:8080}
+
+logging:
+  level:
+    root: INFO
+    com.example: DEBUG
