@@ -44,20 +44,20 @@ ports-and-adapters-java/
 
 ## Auditoría 12-factor (estado tras esta versión)
 
-| # | Factor | Estado | Cómo se cumple |
-| --- | --- | --- | --- |
-| 1 | Codebase | ✅ | Un repo Git, mismo código para local/dev/prod |
-| 2 | Dependencies | ✅ | Todo declarado en `pom.xml`, nada del sistema anfitrión |
-| 3 | Config | ✅ | `DB_URL`, `DB_USERNAME`, `DB_PASSWORD` vienen de variables de entorno; el YAML solo trae defaults de conveniencia para desarrollo local, no secretos de producción |
-| 4 | Backing services | ✅ | Postgres es un recurso conectable vía `OrderRepositoryPort`; cambiar de proveedor es cambiar la URL, no el código |
-| 5 | Build, release, run | ✅ | `mvn clean install` (build) separado de `mvn spring-boot:run` con env vars inyectadas al arrancar (release = paquete + config) |
-| 6 | Processes (stateless) | ✅ | `InMemoryOrderRepository` queda detrás de `@Profile("test")`, no puede activarse en dev/prod por accidente; todo el estado persistente vive en Postgres |
-| 7 | Port binding | ✅ | Tomcat embebido, puerto 8080 autocontenido |
-| 8 | Concurrency | ⚠️ Fuera del código | Responsabilidad del orquestador (réplicas de contenedor); correcto que no esté en el código Java |
-| 9 | Disposability | ✅ | `server.shutdown: graceful` + `@PreDestroy` en `FakePaymentGatewayAdapter` cerrando recursos antes de terminar |
-| 10 | Dev/prod parity | ✅ | Postgres corre igual en dev (`docker-compose.yml`) y prod (misma imagen/tecnología, solo cambia la URL) — ya no hay mismatch H2/Postgres |
-| 11 | Logs | ✅ | Todo a `stdout` vía `logging.pattern.console`, sin `FileAppender` |
-| 12 | Admin processes | ✅ | Flyway aplica `V1__create_orders_table.sql` como proceso de migración versionado; Hibernate ya no genera schema (`ddl-auto: validate`) |
+| #   | Factor                | Estado              | Cómo se cumple                                                                                                                                                     |
+| --- | --------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Codebase              | ✅                  | Un repo Git, mismo código para local/dev/prod                                                                                                                      |
+| 2   | Dependencies          | ✅                  | Todo declarado en `pom.xml`, nada del sistema anfitrión                                                                                                            |
+| 3   | Config                | ✅                  | `DB_URL`, `DB_USERNAME`, `DB_PASSWORD` vienen de variables de entorno; el YAML solo trae defaults de conveniencia para desarrollo local, no secretos de producción |
+| 4   | Backing services      | ✅                  | Postgres es un recurso conectable vía `OrderRepositoryPort`; cambiar de proveedor es cambiar la URL, no el código                                                  |
+| 5   | Build, release, run   | ✅                  | `mvn clean install` (build) separado de `mvn spring-boot:run` con env vars inyectadas al arrancar (release = paquete + config)                                     |
+| 6   | Processes (stateless) | ✅                  | `InMemoryOrderRepository` queda detrás de `@Profile("test")`, no puede activarse en dev/prod por accidente; todo el estado persistente vive en Postgres            |
+| 7   | Port binding          | ✅                  | Tomcat embebido, puerto 8080 autocontenido                                                                                                                         |
+| 8   | Concurrency           | ⚠️ Fuera del código | Responsabilidad del orquestador (réplicas de contenedor); correcto que no esté en el código Java                                                                   |
+| 9   | Disposability         | ✅                  | `server.shutdown: graceful` + `@PreDestroy` en `FakePaymentGatewayAdapter` cerrando recursos antes de terminar                                                     |
+| 10  | Dev/prod parity       | ✅                  | Postgres corre igual en dev (`docker-compose.yml`) y prod (misma imagen/tecnología, solo cambia la URL) — ya no hay mismatch H2/Postgres                           |
+| 11  | Logs                  | ✅                  | Todo a `stdout` vía `logging.pattern.console`, sin `FileAppender`                                                                                                  |
+| 12  | Admin processes       | ✅                  | Flyway aplica `V1__create_orders_table.sql` como proceso de migración versionado; Hibernate ya no genera schema (`ddl-auto: validate`)                             |
 
 11 de 12 factores cumplen dentro del código; el 8 correctamente queda como decisión de infraestructura/orquestador.
 
