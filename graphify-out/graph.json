@@ -11,10 +11,10 @@
       "_callable": true,
       "_callable_class": true,
       "_origin": "ast",
-      "community": 1,
-      "norm_label": "portsandadaptersjavaapplicationtests",
       "id": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests_portsandadaptersjavaapplicationtests",
-      "community_name": "PortsAndAdaptersJavaApplicationTests.java"
+      "community": 1,
+      "community_name": "PortsAndAdaptersJavaApplicationTests.java",
+      "norm_label": "portsandadaptersjavaapplicationtests"
     },
     {
       "label": "PortsAndAdaptersJavaApplication",
@@ -24,10 +24,10 @@
       "_callable": true,
       "_callable_class": true,
       "_origin": "ast",
-      "community": 2,
-      "norm_label": "portsandadaptersjavaapplication",
       "id": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication_portsandadaptersjavaapplication",
-      "community_name": "PortsAndAdaptersJavaApplication"
+      "community": 2,
+      "community_name": "PortsAndAdaptersJavaApplication",
+      "norm_label": "portsandadaptersjavaapplication"
     },
     {
       "label": ".contextLoads()",
@@ -36,10 +36,10 @@
       "source_location": "L9",
       "_callable": true,
       "_origin": "ast",
-      "community": 1,
-      "norm_label": ".contextloads()",
       "id": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests_portsandadaptersjavaapplicationtests_contextloads",
-      "community_name": "PortsAndAdaptersJavaApplicationTests.java"
+      "community": 1,
+      "community_name": "PortsAndAdaptersJavaApplicationTests.java",
+      "norm_label": ".contextloads()"
     },
     {
       "label": ".main()",
@@ -48,10 +48,10 @@
       "source_location": "L9",
       "_callable": true,
       "_origin": "ast",
-      "community": 2,
-      "norm_label": ".main()",
       "id": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication_portsandadaptersjavaapplication_main",
-      "community_name": "PortsAndAdaptersJavaApplication"
+      "community": 2,
+      "community_name": "PortsAndAdaptersJavaApplication",
+      "norm_label": ".main()"
     },
     {
       "label": "GraphifyPlugin()",
@@ -60,10 +60,10 @@
       "source_location": "L12",
       "_callable": true,
       "_origin": "ast",
-      "community": 3,
-      "norm_label": "graphifyplugin()",
       "id": "opencode_plugins_graphify_graphifyplugin",
-      "community_name": "graphify.js"
+      "community": 3,
+      "community_name": "graphify.js",
+      "norm_label": "graphifyplugin()"
     },
     {
       "label": "mvnw",
@@ -75,10 +75,10 @@
         "kind": "file"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "mvnw",
       "id": "mvnw",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "mvnw"
     },
     {
       "label": "mvnw script",
@@ -90,10 +90,10 @@
         "kind": "bash_entrypoint"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "mvnw script",
       "id": "mvnw__entry",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "mvnw script"
     },
     {
       "label": "clean()",
@@ -105,10 +105,10 @@
         "kind": "bash_function"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "clean()",
       "id": "mvnw_clean",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "clean()"
     },
     {
       "label": "die()",
@@ -120,10 +120,10 @@
         "kind": "bash_function"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "die()",
       "id": "mvnw_die",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "die()"
     },
     {
       "label": "exec_maven()",
@@ -135,10 +135,10 @@
         "kind": "bash_function"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "exec_maven()",
       "id": "mvnw_exec_maven",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "exec_maven()"
     },
     {
       "label": "hash_string()",
@@ -150,10 +150,10 @@
         "kind": "bash_function"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "hash_string()",
       "id": "mvnw_hash_string",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "hash_string()"
     },
     {
       "label": "native_path()",
@@ -165,10 +165,10 @@
         "kind": "bash_function"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "native_path()",
       "id": "mvnw_native_path",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "native_path()"
     },
     {
       "label": "set_java_home()",
@@ -180,10 +180,10 @@
         "kind": "bash_function"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "set_java_home()",
       "id": "mvnw_set_java_home",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "set_java_home()"
     },
     {
       "label": "trim()",
@@ -195,10 +195,10 @@
         "kind": "bash_function"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "trim()",
       "id": "mvnw_trim",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "trim()"
     },
     {
       "label": "verbose()",
@@ -210,10 +210,10 @@
         "kind": "bash_function"
       },
       "_origin": "ast",
-      "community": 0,
-      "norm_label": "verbose()",
       "id": "mvnw_verbose",
-      "community_name": "mvnw"
+      "community": 0,
+      "community_name": "mvnw",
+      "norm_label": "verbose()"
     },
     {
       "label": "org.junit.jupiter.api.Test",
@@ -221,10 +221,10 @@
       "source_file": "",
       "source_location": "",
       "_origin": "ast",
-      "community": 1,
-      "norm_label": "org.junit.jupiter.api.test",
       "id": "org_junit_jupiter_api_test",
-      "community_name": "PortsAndAdaptersJavaApplicationTests.java"
+      "community": 1,
+      "community_name": "PortsAndAdaptersJavaApplicationTests.java",
+      "norm_label": "org.junit.jupiter.api.test"
     },
     {
       "label": "org.springframework.boot.test.context.SpringBootTest",
@@ -232,10 +232,10 @@
       "source_file": "",
       "source_location": "",
       "_origin": "ast",
-      "community": 1,
-      "norm_label": "org.springframework.boot.test.context.springboottest",
       "id": "org_springframework_boot_test_context_springboottest",
-      "community_name": "PortsAndAdaptersJavaApplicationTests.java"
+      "community": 1,
+      "community_name": "PortsAndAdaptersJavaApplicationTests.java",
+      "norm_label": "org.springframework.boot.test.context.springboottest"
     },
     {
       "label": "PortsAndAdaptersJavaApplicationTests.java",
@@ -243,10 +243,54 @@
       "source_file": "src/test/java/com/example/portsandadapters/PortsAndAdaptersJavaApplicationTests.java",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 1,
-      "norm_label": "portsandadaptersjavaapplicationtests.java",
       "id": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests",
-      "community_name": "PortsAndAdaptersJavaApplicationTests.java"
+      "community": 1,
+      "community_name": "PortsAndAdaptersJavaApplicationTests.java",
+      "norm_label": "portsandadaptersjavaapplicationtests.java"
+    },
+    {
+      "label": "opencode.json",
+      "file_type": "code",
+      "source_file": ".opencode/opencode.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "opencode_opencode",
+      "community": 10,
+      "community_name": "opencode.json",
+      "norm_label": "opencode.json"
+    },
+    {
+      "label": "plugin",
+      "file_type": "code",
+      "source_file": ".opencode/opencode.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "opencode_opencode_plugin",
+      "community": 10,
+      "community_name": "opencode.json",
+      "norm_label": "plugin"
+    },
+    {
+      "label": "$schema",
+      "file_type": "code",
+      "source_file": ".opencode/opencode.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "opencode_opencode_schema",
+      "community": 10,
+      "community_name": "opencode.json",
+      "norm_label": "$schema"
+    },
+    {
+      "label": ".opencode/plugins/graphify.js",
+      "file_type": "concept",
+      "source_file": ".opencode/opencode.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "ref_opencode_plugins_graphify_js",
+      "community": 10,
+      "community_name": "opencode.json",
+      "norm_label": ".opencode/plugins/graphify.js"
     },
     {
       "label": "org.springframework.boot.autoconfigure.SpringBootApplication",
@@ -254,10 +298,10 @@
       "source_file": "",
       "source_location": "",
       "_origin": "ast",
-      "community": 2,
-      "norm_label": "org.springframework.boot.autoconfigure.springbootapplication",
       "id": "org_springframework_boot_autoconfigure_springbootapplication",
-      "community_name": "PortsAndAdaptersJavaApplication"
+      "community": 2,
+      "community_name": "PortsAndAdaptersJavaApplication",
+      "norm_label": "org.springframework.boot.autoconfigure.springbootapplication"
     },
     {
       "label": "PortsAndAdaptersJavaApplication.java",
@@ -265,10 +309,10 @@
       "source_file": "src/main/java/com/example/portsandadapters/PortsAndAdaptersJavaApplication.java",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 2,
-      "norm_label": "portsandadaptersjavaapplication.java",
       "id": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication",
-      "community_name": "PortsAndAdaptersJavaApplication"
+      "community": 2,
+      "community_name": "PortsAndAdaptersJavaApplication",
+      "norm_label": "portsandadaptersjavaapplication.java"
     },
     {
       "label": "graphify.js",
@@ -276,10 +320,10 @@
       "source_file": ".opencode/plugins/graphify.js",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 3,
-      "norm_label": "graphify.js",
       "id": "opencode_plugins_graphify",
-      "community_name": "graphify.js"
+      "community": 3,
+      "community_name": "graphify.js",
+      "norm_label": "graphify.js"
     },
     {
       "label": "IMPORTANT: keep the reminder string free of backticks and $(...) constructs.",
@@ -287,10 +331,10 @@
       "source_file": ".opencode/plugins/graphify.js",
       "source_location": "L4",
       "_origin": "ast",
-      "community": 3,
-      "norm_label": "important: keep the reminder string free of backticks and $(...) constructs.",
       "id": "opencode_plugins_graphify_rationale_4",
-      "community_name": "graphify.js"
+      "community": 3,
+      "community_name": "graphify.js",
+      "norm_label": "important: keep the reminder string free of backticks and $(...) constructs."
     },
     {
       "label": "com.example:ports-and-adapters-java",
@@ -301,10 +345,417 @@
       "source_location": "L1",
       "version": "0.0.1-SNAPSHOT",
       "_origin": "ast",
-      "community": 4,
-      "norm_label": "com.example:ports-and-adapters-java",
       "id": "pkg_com_example_ports_and_adapters_java",
-      "community_name": "com.example:ports-and-adapters-java"
+      "community": 4,
+      "community_name": "com.example:ports-and-adapters-java",
+      "norm_label": "com.example:ports-and-adapters-java"
+    },
+    {
+      "label": "twelve-factor-app.md",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "twelve-factor-app.md"
+    },
+    {
+      "label": "10. Dev/prod parity (Paridad entre desarrollo y producci\u00f3n)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L137",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_10_dev_prod_parity_paridad_entre_desarrollo_y_producci\u00f3n",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "10. dev/prod parity (paridad entre desarrollo y produccion)"
+    },
+    {
+      "label": "11. Logs (Registros)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L157",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_11_logs_registros",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "11. logs (registros)"
+    },
+    {
+      "label": "12. Admin processes (Procesos administrativos)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L167",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_12_admin_processes_procesos_administrativos",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "12. admin processes (procesos administrativos)"
+    },
+    {
+      "label": "1. Codebase (C\u00f3digo base)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_1_codebase_c\u00f3digo_base",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "1. codebase (codigo base)"
+    },
+    {
+      "label": "2. Dependencies (Dependencias)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_2_dependencies_dependencias",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "2. dependencies (dependencias)"
+    },
+    {
+      "label": "3. Config (Configuraci\u00f3n)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_3_config_configuraci\u00f3n",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "3. config (configuracion)"
+    },
+    {
+      "label": "4. Backing services (Servicios de respaldo)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L51",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_4_backing_services_servicios_de_respaldo",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "4. backing services (servicios de respaldo)"
+    },
+    {
+      "label": "5. Build, release, run (Build, release, ejecuci\u00f3n)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L61",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_5_build_release_run_build_release_ejecuci\u00f3n",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "5. build, release, run (build, release, ejecucion)"
+    },
+    {
+      "label": "6. Processes (Procesos)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L77",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_6_processes_procesos",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "6. processes (procesos)"
+    },
+    {
+      "label": "7. Port binding (Vinculaci\u00f3n de puertos)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L87",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_7_port_binding_vinculaci\u00f3n_de_puertos",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "7. port binding (vinculacion de puertos)"
+    },
+    {
+      "label": "8. Concurrency (Concurrencia)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L110",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_8_concurrency_concurrencia",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "8. concurrency (concurrencia)"
+    },
+    {
+      "label": "9. Disposability (Desechabilidad)",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L127",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_9_disposability_desechabilidad",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "9. disposability (desechabilidad)"
+    },
+    {
+      "label": "Tabla Resumen: El sistema de los 12 Factores de un vistazo",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L177",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_tabla_resumen_el_sistema_de_los_12_factores_de_un_vistazo",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "tabla resumen: el sistema de los 12 factores de un vistazo"
+    },
+    {
+      "label": "The Twelve-Factor App",
+      "file_type": "document",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_twelve_factor_app_the_twelve_factor_app",
+      "community": 5,
+      "community_name": "The Twelve-Factor App",
+      "norm_label": "the twelve-factor app"
+    },
+    {
+      "label": "ports-and-adapters-java-template.md",
+      "file_type": "document",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_ports_and_adapters_java_template",
+      "community": 6,
+      "community_name": "Template: ports-and-adapters-java",
+      "norm_label": "ports-and-adapters-java-template.md"
+    },
+    {
+      "label": "Auditor\u00eda 12-factor (estado tras esta versi\u00f3n)",
+      "file_type": "document",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L45",
+      "_origin": "ast",
+      "id": "docs_ports_and_adapters_java_template_auditor\u00eda_12_factor_estado_tras_esta_versi\u00f3n",
+      "community": 6,
+      "community_name": "Template: ports-and-adapters-java",
+      "norm_label": "auditoria 12-factor (estado tras esta version)"
+    },
+    {
+      "label": "Comandos",
+      "file_type": "document",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L75",
+      "_origin": "ast",
+      "id": "docs_ports_and_adapters_java_template_comandos",
+      "community": 6,
+      "community_name": "Template: ports-and-adapters-java",
+      "norm_label": "comandos"
+    },
+    {
+      "label": "Estructura del proyecto",
+      "file_type": "document",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "docs_ports_and_adapters_java_template_estructura_del_proyecto",
+      "community": 6,
+      "community_name": "Template: ports-and-adapters-java",
+      "norm_label": "estructura del proyecto"
+    },
+    {
+      "label": "Notas de dise\u00f1o",
+      "file_type": "document",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L66",
+      "_origin": "ast",
+      "id": "docs_ports_and_adapters_java_template_notas_de_dise\u00f1o",
+      "community": 6,
+      "community_name": "Template: ports-and-adapters-java",
+      "norm_label": "notas de diseno"
+    },
+    {
+      "label": "Template: ports-and-adapters-java",
+      "file_type": "document",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_ports_and_adapters_java_template_template_ports_and_adapters_java",
+      "community": 6,
+      "community_name": "Template: ports-and-adapters-java",
+      "norm_label": "template: ports-and-adapters-java"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 7,
+      "community_name": "Ports and Adapters - Java",
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "License",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "readme_license",
+      "community": 7,
+      "community_name": "Ports and Adapters - Java",
+      "norm_label": "license"
+    },
+    {
+      "label": "Ports and Adapters - Java",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_ports_and_adapters_java",
+      "community": 7,
+      "community_name": "Ports and Adapters - Java",
+      "norm_label": "ports and adapters - java"
+    },
+    {
+      "label": "Requirements",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "readme_requirements",
+      "community": 7,
+      "community_name": "Ports and Adapters - Java",
+      "norm_label": "requirements"
+    },
+    {
+      "label": "Run",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "readme_run",
+      "community": 7,
+      "community_name": "Ports and Adapters - Java",
+      "norm_label": "run"
+    },
+    {
+      "label": "Tests",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "readme_tests",
+      "community": 7,
+      "community_name": "Ports and Adapters - Java",
+      "norm_label": "tests"
+    },
+    {
+      "label": "factor-i-codebase.md",
+      "file_type": "document",
+      "source_file": "docs/factor-i-codebase.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_factor_i_codebase",
+      "community": 8,
+      "community_name": "Factor I: Codebase \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "factor-i-codebase.md"
+    },
+    {
+      "label": "Conclusi\u00f3n",
+      "file_type": "document",
+      "source_file": "docs/factor-i-codebase.md",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "docs_factor_i_codebase_conclusi\u00f3n",
+      "community": 8,
+      "community_name": "Factor I: Codebase \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "conclusion"
+    },
+    {
+      "label": "Factor I: Codebase \u2014 An\u00e1lisis de cumplimiento",
+      "file_type": "document",
+      "source_file": "docs/factor-i-codebase.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_factor_i_codebase_factor_i_codebase_an\u00e1lisis_de_cumplimiento",
+      "community": 8,
+      "community_name": "Factor I: Codebase \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "factor i: codebase \u2014 analisis de cumplimiento"
+    },
+    {
+      "label": "Qu\u00e9 pide el factor",
+      "file_type": "document",
+      "source_file": "docs/factor-i-codebase.md",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "docs_factor_i_codebase_qu\u00e9_pide_el_factor",
+      "community": 8,
+      "community_name": "Factor I: Codebase \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "que pide el factor"
+    },
+    {
+      "label": "Qu\u00e9 se verific\u00f3",
+      "file_type": "document",
+      "source_file": "docs/factor-i-codebase.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "docs_factor_i_codebase_qu\u00e9_se_verific\u00f3",
+      "community": 8,
+      "community_name": "Factor I: Codebase \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "que se verifico"
+    },
+    {
+      "label": "factor-ii-dependencies.md",
+      "file_type": "document",
+      "source_file": "docs/factor-ii-dependencies.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_factor_ii_dependencies",
+      "community": 9,
+      "community_name": "Factor II: Dependencies \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "factor-ii-dependencies.md"
+    },
+    {
+      "label": "Conclusi\u00f3n",
+      "file_type": "document",
+      "source_file": "docs/factor-ii-dependencies.md",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "docs_factor_ii_dependencies_conclusi\u00f3n",
+      "community": 9,
+      "community_name": "Factor II: Dependencies \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "conclusion"
+    },
+    {
+      "label": "Factor II: Dependencies \u2014 An\u00e1lisis de cumplimiento",
+      "file_type": "document",
+      "source_file": "docs/factor-ii-dependencies.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_factor_ii_dependencies_factor_ii_dependencies_an\u00e1lisis_de_cumplimiento",
+      "community": 9,
+      "community_name": "Factor II: Dependencies \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "factor ii: dependencies \u2014 analisis de cumplimiento"
+    },
+    {
+      "label": "Qu\u00e9 pide el factor",
+      "file_type": "document",
+      "source_file": "docs/factor-ii-dependencies.md",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "docs_factor_ii_dependencies_qu\u00e9_pide_el_factor",
+      "community": 9,
+      "community_name": "Factor II: Dependencies \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "que pide el factor"
+    },
+    {
+      "label": "Qu\u00e9 se verific\u00f3",
+      "file_type": "document",
+      "source_file": "docs/factor-ii-dependencies.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "docs_factor_ii_dependencies_qu\u00e9_se_verific\u00f3",
+      "community": 9,
+      "community_name": "Factor II: Dependencies \u2014 An\u00e1lisis de cumplimiento",
+      "norm_label": "que se verifico"
     }
   ],
   "links": [
@@ -316,9 +767,9 @@
       "weight": 1.0,
       "context": "attribute",
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication_portsandadaptersjavaapplication",
-      "target": "org_springframework_boot_autoconfigure_springbootapplication"
+      "target": "org_springframework_boot_autoconfigure_springbootapplication",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -328,9 +779,9 @@
       "weight": 1.0,
       "context": "attribute",
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests_portsandadaptersjavaapplicationtests",
-      "target": "org_springframework_boot_test_context_springboottest"
+      "target": "org_springframework_boot_test_context_springboottest",
+      "confidence_score": 1.0
     },
     {
       "relation": "references",
@@ -340,9 +791,9 @@
       "weight": 1.0,
       "context": "attribute",
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests_portsandadaptersjavaapplicationtests_contextloads",
-      "target": "org_junit_jupiter_api_test"
+      "target": "org_junit_jupiter_api_test",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -352,9 +803,9 @@
       "weight": 1.0,
       "context": "call",
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw__entry",
-      "target": "mvnw_die"
+      "target": "mvnw_die",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -364,9 +815,9 @@
       "weight": 1.0,
       "context": "call",
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw__entry",
-      "target": "mvnw_verbose"
+      "target": "mvnw_verbose",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -376,9 +827,9 @@
       "weight": 1.0,
       "context": "call",
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw__entry",
-      "target": "mvnw_exec_maven"
+      "target": "mvnw_exec_maven",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -388,9 +839,9 @@
       "weight": 1.0,
       "context": "call",
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw__entry",
-      "target": "mvnw_set_java_home"
+      "target": "mvnw_set_java_home",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -400,9 +851,9 @@
       "weight": 1.0,
       "context": "call",
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw__entry",
-      "target": "mvnw_clean"
+      "target": "mvnw_clean",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -412,9 +863,21 @@
       "weight": 1.0,
       "context": "call",
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw_exec_maven",
-      "target": "mvnw_die"
+      "target": "mvnw_die",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".opencode/opencode.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "import",
+      "_origin": "ast",
+      "source": "opencode_opencode_plugin",
+      "target": "ref_opencode_plugins_graphify_js",
+      "confidence_score": 1.0
     },
     {
       "relation": "imports",
@@ -424,9 +887,9 @@
       "source_location": "L4",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication",
-      "target": "org_springframework_boot_autoconfigure_springbootapplication"
+      "target": "org_springframework_boot_autoconfigure_springbootapplication",
+      "confidence_score": 1.0
     },
     {
       "relation": "imports",
@@ -436,9 +899,9 @@
       "source_location": "L3",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests",
-      "target": "org_junit_jupiter_api_test"
+      "target": "org_junit_jupiter_api_test",
+      "confidence_score": 1.0
     },
     {
       "relation": "imports",
@@ -448,9 +911,306 @@
       "source_location": "L4",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests",
-      "target": "org_springframework_boot_test_context_springboottest"
+      "target": "org_springframework_boot_test_context_springboottest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/factor-i-codebase.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_factor_i_codebase",
+      "target": "docs_factor_i_codebase_factor_i_codebase_an\u00e1lisis_de_cumplimiento",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/factor-i-codebase.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_factor_i_codebase_factor_i_codebase_an\u00e1lisis_de_cumplimiento",
+      "target": "docs_factor_i_codebase_qu\u00e9_se_verific\u00f3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/factor-i-codebase.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_factor_i_codebase_factor_i_codebase_an\u00e1lisis_de_cumplimiento",
+      "target": "docs_factor_i_codebase_conclusi\u00f3n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/factor-i-codebase.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_factor_i_codebase_factor_i_codebase_an\u00e1lisis_de_cumplimiento",
+      "target": "docs_factor_i_codebase_qu\u00e9_pide_el_factor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/factor-ii-dependencies.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_factor_ii_dependencies",
+      "target": "docs_factor_ii_dependencies_factor_ii_dependencies_an\u00e1lisis_de_cumplimiento",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/factor-ii-dependencies.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_factor_ii_dependencies_factor_ii_dependencies_an\u00e1lisis_de_cumplimiento",
+      "target": "docs_factor_ii_dependencies_qu\u00e9_se_verific\u00f3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/factor-ii-dependencies.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_factor_ii_dependencies_factor_ii_dependencies_an\u00e1lisis_de_cumplimiento",
+      "target": "docs_factor_ii_dependencies_conclusi\u00f3n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/factor-ii-dependencies.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_factor_ii_dependencies_factor_ii_dependencies_an\u00e1lisis_de_cumplimiento",
+      "target": "docs_factor_ii_dependencies_qu\u00e9_pide_el_factor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_ports_and_adapters_java_template",
+      "target": "docs_ports_and_adapters_java_template_template_ports_and_adapters_java",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_ports_and_adapters_java_template_template_ports_and_adapters_java",
+      "target": "docs_ports_and_adapters_java_template_estructura_del_proyecto",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_ports_and_adapters_java_template_template_ports_and_adapters_java",
+      "target": "docs_ports_and_adapters_java_template_auditor\u00eda_12_factor_estado_tras_esta_versi\u00f3n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L66",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_ports_and_adapters_java_template_template_ports_and_adapters_java",
+      "target": "docs_ports_and_adapters_java_template_notas_de_dise\u00f1o",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/ports-and-adapters-java-template.md",
+      "source_location": "L75",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_ports_and_adapters_java_template_template_ports_and_adapters_java",
+      "target": "docs_ports_and_adapters_java_template_comandos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app",
+      "target": "docs_twelve_factor_app_the_twelve_factor_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_1_codebase_c\u00f3digo_base",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L110",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_8_concurrency_concurrencia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L127",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_9_disposability_desechabilidad",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L137",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_10_dev_prod_parity_paridad_entre_desarrollo_y_producci\u00f3n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L157",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_11_logs_registros",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L167",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_12_admin_processes_procesos_administrativos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L177",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_tabla_resumen_el_sistema_de_los_12_factores_de_un_vistazo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_2_dependencies_dependencias",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_3_config_configuraci\u00f3n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L51",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_4_backing_services_servicios_de_respaldo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L61",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_5_build_release_run_build_release_ejecuci\u00f3n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L77",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_6_processes_procesos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "docs/twelve-factor-app.md",
+      "source_location": "L87",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "docs_twelve_factor_app_the_twelve_factor_app",
+      "target": "docs_twelve_factor_app_7_port_binding_vinculaci\u00f3n_de_puertos",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -459,9 +1219,31 @@
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw",
-      "target": "mvnw__entry"
+      "target": "mvnw__entry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".opencode/opencode.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "opencode_opencode",
+      "target": "opencode_opencode_schema",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".opencode/opencode.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "opencode_opencode",
+      "target": "opencode_opencode_plugin",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -470,9 +1252,64 @@
       "source_location": "L12",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "opencode_plugins_graphify",
-      "target": "opencode_plugins_graphify_graphifyplugin"
+      "target": "opencode_plugins_graphify_graphifyplugin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme",
+      "target": "readme_ports_and_adapters_java",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_ports_and_adapters_java",
+      "target": "readme_run",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_ports_and_adapters_java",
+      "target": "readme_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_ports_and_adapters_java",
+      "target": "readme_license",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "readme_ports_and_adapters_java",
+      "target": "readme_requirements",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -481,9 +1318,9 @@
       "source_location": "L6",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication",
-      "target": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication_portsandadaptersjavaapplication"
+      "target": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication_portsandadaptersjavaapplication",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -492,9 +1329,9 @@
       "source_location": "L6",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests",
-      "target": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests_portsandadaptersjavaapplicationtests"
+      "target": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests_portsandadaptersjavaapplicationtests",
+      "confidence_score": 1.0
     },
     {
       "relation": "defines",
@@ -503,9 +1340,9 @@
       "source_location": "L100",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw",
-      "target": "mvnw_trim"
+      "target": "mvnw_trim",
+      "confidence_score": 1.0
     },
     {
       "relation": "defines",
@@ -514,9 +1351,9 @@
       "source_location": "L148",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw",
-      "target": "mvnw_exec_maven"
+      "target": "mvnw_exec_maven",
+      "confidence_score": 1.0
     },
     {
       "relation": "defines",
@@ -525,9 +1362,9 @@
       "source_location": "L165",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw",
-      "target": "mvnw_clean"
+      "target": "mvnw_clean",
+      "confidence_score": 1.0
     },
     {
       "relation": "defines",
@@ -536,9 +1373,9 @@
       "source_location": "L40",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw",
-      "target": "mvnw_native_path"
+      "target": "mvnw_native_path",
+      "confidence_score": 1.0
     },
     {
       "relation": "defines",
@@ -547,9 +1384,9 @@
       "source_location": "L45",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw",
-      "target": "mvnw_set_java_home"
+      "target": "mvnw_set_java_home",
+      "confidence_score": 1.0
     },
     {
       "relation": "defines",
@@ -558,9 +1395,9 @@
       "source_location": "L82",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw",
-      "target": "mvnw_hash_string"
+      "target": "mvnw_hash_string",
+      "confidence_score": 1.0
     },
     {
       "relation": "defines",
@@ -569,9 +1406,9 @@
       "source_location": "L93",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw",
-      "target": "mvnw_verbose"
+      "target": "mvnw_verbose",
+      "confidence_score": 1.0
     },
     {
       "relation": "defines",
@@ -580,9 +1417,9 @@
       "source_location": "L95",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "mvnw",
-      "target": "mvnw_die"
+      "target": "mvnw_die",
+      "confidence_score": 1.0
     },
     {
       "relation": "method",
@@ -591,9 +1428,9 @@
       "source_location": "L9",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication_portsandadaptersjavaapplication",
-      "target": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication_portsandadaptersjavaapplication_main"
+      "target": "src_main_java_com_example_portsandadapters_portsandadaptersjavaapplication_portsandadaptersjavaapplication_main",
+      "confidence_score": 1.0
     },
     {
       "relation": "method",
@@ -602,9 +1439,9 @@
       "source_location": "L9",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests_portsandadaptersjavaapplicationtests",
-      "target": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests_portsandadaptersjavaapplicationtests_contextloads"
+      "target": "src_test_java_com_example_portsandadapters_portsandadaptersjavaapplicationtests_portsandadaptersjavaapplicationtests_contextloads",
+      "confidence_score": 1.0
     },
     {
       "relation": "rationale_for",
@@ -613,11 +1450,11 @@
       "source_location": "L4",
       "weight": 1.0,
       "_origin": "ast",
-      "confidence_score": 1.0,
       "source": "opencode_plugins_graphify_rationale_4",
-      "target": "opencode_plugins_graphify"
+      "target": "opencode_plugins_graphify",
+      "confidence_score": 1.0
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "614c516da7cd4aa231fbaaf02c13016b47047fbe"
+  "built_at_commit": "9b4288ac358d51ed6a926111226dc61a947bd88f"
 }

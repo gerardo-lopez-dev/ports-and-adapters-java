@@ -11,7 +11,7 @@
 ## Qué se verificó
 
 | Criterio | Resultado |
-|----------|-----------|
+| ---------- | ----------- |
 | Un solo repo Git | Sí — `ports-and-adapters-java` |
 | Una sola app desplegable | Sí — `PortsAndAdaptersJavaApplication` |
 | Código compartido entre apps distintas | No hay — no se aplica |

@@ -1,1 +1,13 @@
-{"0": "mvnw", "1": "PortsAndAdaptersJavaApplicationTests.java", "2": "PortsAndAdaptersJavaApplication", "3": "graphify.js", "4": "com.example:ports-and-adapters-java"}
+{
+  "0": "mvnw",
+  "1": "PortsAndAdaptersJavaApplicationTests.java",
+  "2": "PortsAndAdaptersJavaApplication",
+  "3": "graphify.js",
+  "4": "com.example:ports-and-adapters-java",
+  "5": "The Twelve-Factor App",
+  "6": "Template: ports-and-adapters-java",
+  "7": "Ports and Adapters - Java",
+  "8": "Factor I: Codebase — Análisis de cumplimiento",
+  "9": "Factor II: Dependencies — Análisis de cumplimiento",
+  "10": "opencode.json"
+}

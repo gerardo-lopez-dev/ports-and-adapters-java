@@ -11,7 +11,7 @@
 ## Qué se verificó
 
 | Criterio | Resultado |
-|----------|-----------|
+| ---------- | ----------- |
 | Declaración explícita de dependencias | Sí — `pom.xml:32-48` con scopes correctos |
 | Aislamiento en contenedor | Sí — `Dockerfile:1-16` multi-stage con imagen explícita |
 | Maven Wrapper incluido | Sí — `mvnw` asegura versión consistente de Maven |
