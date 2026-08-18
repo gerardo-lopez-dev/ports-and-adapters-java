@@ -1,2 +1,20 @@
 # Production — zero defaults.
 # Missing env vars → app fails to start (fail loudly).
+#
+# NOTA: ajustá las claves de abajo a las propiedades reales que use tu
+# proyecto (datasource, mensajería, etc). El punto clave es: ninguna
+# variable acá tiene fallback ("${VAR}", nunca "${VAR:default}").
+
+server:
+  port: ${SERVER_PORT}
+
+spring:
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+
+logging:
+  level:
+    root: WARN
+    com.example: INFO
