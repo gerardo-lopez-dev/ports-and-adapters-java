@@ -1,4 +1,4 @@
-# CI / integration environment
+# Development environment
 # Connects to PostgreSQL via environment variables.
 
 server:
