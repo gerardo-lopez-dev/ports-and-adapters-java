@@ -1,18 +1,1 @@
-{
-  "0": "The Twelve-Factor App",
-  "1": "mvnw",
-  "2": "Las 12 reglas",
-  "3": "Template: ports-and-adapters-java",
-  "4": "org.junit.jupiter.api.Test",
-  "5": "Ports and Adapters - Java",
-  "6": "Factor I: Codebase — Análisis de cumplimiento",
-  "7": "Factor II: Dependencies — Análisis de cumplimiento",
-  "8": "opencode.json",
-  "9": "PortsAndAdaptersJavaApplication",
-  "10": "graphify.js",
-  "11": "com.example:ports-and-adapters-java",
-  "12": "PROMPT",
-  "13": "12-Factor App — Golden Rules",
-  "14": "AGENTS.md",
-  "15": "CLAUDE.md"
-}
+{"0": "12-Factor Compliance & Docs", "1": "Spring Boot Application", "2": "ArchUnit Architecture Tests", "3": "Flyway Configuration", "4": "Maven Wrapper Script", "5": "Testcontainers Integration Tests", "6": "Database & Dev/Prod Parity", "7": "OpenCode Plugin", "8": "Graphify Plugin", "9": "Factor I: Codebase", "10": "Factor XII: Admin Processes", "11": "Factor III: Config", "12": "Project README", "13": "Architecture Tests Documentation", "14": "Factor V: Build Release Run", "15": "Factor VIII: Concurrency", "16": "Maven Package", "17": "Serena Config"}
