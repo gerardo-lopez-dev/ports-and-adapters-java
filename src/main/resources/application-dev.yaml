@@ -1,8 +1,23 @@
-# CI / integration environment
-# Minimal config, no docker dependencies.
+# Development environment
+# Connects to PostgreSQL via environment variables.
 
 server:
   port: ${SERVER_PORT:8080}
+
+spring:
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+  flyway:
+    enabled: false
+
+app:
+  flyway:
+    schemas: _shared,auth
 
 logging:
   level:

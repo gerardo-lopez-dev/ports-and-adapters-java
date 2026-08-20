@@ -1,0 +1,116 @@
+{
+  ".opencode/opencode.json": {
+    "mtime": 1786993196.9634278,
+    "seen": 1787043614.6924183,
+    "ast_hash": "e5f74d14a81702b55bdf53b33ec991d7",
+    "semantic_hash": ""
+  },
+  ".opencode/plugins/graphify.js": {
+    "mtime": 1786993196.9634278,
+    "seen": 1787043614.692421,
+    "ast_hash": "3ea725724bc8ebe483c9f13d6aa1124f",
+    "semantic_hash": ""
+  },
+  "mvnw": {
+    "mtime": 1786986388.0,
+    "seen": 1787043614.6924224,
+    "ast_hash": "ab50dd89da7da2346b28003352eeeeeb",
+    "semantic_hash": ""
+  },
+  "pom.xml": {
+    "mtime": 1787043037.8656275,
+    "seen": 1787043614.6924233,
+    "ast_hash": "67c329fe4a209f46f88ccd934ad6848a",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/example/portsandadapters/PortsAndAdaptersJavaApplication.java": {
+    "mtime": 1786986388.0,
+    "seen": 1787043614.6924238,
+    "ast_hash": "d72ecb777cb9d128816d862bbd9119c8",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/example/portsandadapters/infrastructure/config/FlywayMultiSchemaConfig.java": {
+    "mtime": 1787043073.9961102,
+    "seen": 1787043614.6924248,
+    "ast_hash": "3adaa786f6e52a7765b0bb341533245d",
+    "semantic_hash": ""
+  },
+  "src/test/java/com/example/portsandadapters/PortsAndAdaptersJavaApplicationTests.java": {
+    "mtime": 1787043118.8054683,
+    "seen": 1787043614.6924255,
+    "ast_hash": "a409da7b785e11fe3632b7f6a50254fb",
+    "semantic_hash": ""
+  },
+  ".serena/project.yml": {
+    "mtime": 1786993196.9634278,
+    "seen": 1787043614.692426,
+    "ast_hash": "404b6f7d6466145cce69fdcfb96cd3a9",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1786977999.045342,
+    "seen": 1787043614.6924267,
+    "ast_hash": "4fbfc97c6083a56b52da50c0aaaf6b27",
+    "semantic_hash": ""
+  },
+  "docker-compose.yml": {
+    "mtime": 1787043080.638015,
+    "seen": 1787043614.6924272,
+    "ast_hash": "fbec5798a332427feb3b516e181eb2e0",
+    "semantic_hash": ""
+  },
+  "docs/factor-i-codebase.md": {
+    "mtime": 1787035208.1748912,
+    "seen": 1787043614.6924279,
+    "ast_hash": "c45feb35b6658ba68edd8f9c4a3a1ed5",
+    "semantic_hash": ""
+  },
+  "docs/factor-ii-dependencies.md": {
+    "mtime": 1787035208.1758912,
+    "seen": 1787043614.6924284,
+    "ast_hash": "45ea3295dd374de1179cdb586b3c9415",
+    "semantic_hash": ""
+  },
+  "docs/ports-and-adapters-java-template.md": {
+    "mtime": 1787042077.4663785,
+    "seen": 1787043614.6924288,
+    "ast_hash": "4db728812bb3d92ddb40beddc7896505",
+    "semantic_hash": ""
+  },
+  "docs/twelve-factor-app.md": {
+    "mtime": 1786993196.9644902,
+    "seen": 1787043614.6924293,
+    "ast_hash": "490b6695066e3322dbbbd38f344d00a2",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application-dev.yaml": {
+    "mtime": 1787043060.4943035,
+    "seen": 1787043614.6924298,
+    "ast_hash": "68eaa0b7750b66c42590eb2f393e5b42",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application-local.yaml": {
+    "mtime": 1787043058.0363388,
+    "seen": 1787043614.6924305,
+    "ast_hash": "a398cc3cc605424a3a2ea6fd9952f4c5",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application-prod.yaml": {
+    "mtime": 1787043062.3522768,
+    "seen": 1787043614.6924312,
+    "ast_hash": "c06c447a1621bbe153fa4b1afe22d723",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application.yaml": {
+    "mtime": 1787042077.4663785,
+    "seen": 1787043614.6924317,
+    "ast_hash": "6a32d8312ac1e1554c74b456c6e6b1d3",
+    "semantic_hash": ""
+  },
+  "src/test/resources/application-test.yaml": {
+    "mtime": 1787043063.952254,
+    "seen": 1787043614.6924322,
+    "ast_hash": "77909f43163420f08c25a707f8a1578d",
+    "semantic_hash": ""
+  }
+}

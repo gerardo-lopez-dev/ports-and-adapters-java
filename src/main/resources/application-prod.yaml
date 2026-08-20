@@ -1,9 +1,5 @@
 # Production — zero defaults.
 # Missing env vars → app fails to start (fail loudly).
-#
-# NOTE: adjust the keys below to the actual properties your project uses
-# (datasource, messaging, etc). Key point: no variable here has a fallback
-# ("${VAR}", never "${VAR:default}").
 
 server:
   port: ${SERVER_PORT}
@@ -13,6 +9,15 @@ spring:
     url: ${DB_URL}
     username: ${DB_USERNAME}
     password: ${DB_PASSWORD}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+  flyway:
+    enabled: false
+
+app:
+  flyway:
+    schemas: _shared,auth
 
 logging:
   level:

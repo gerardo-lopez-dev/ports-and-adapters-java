@@ -1,0 +1,188 @@
+{
+  ".opencode/opencode.json": {
+    "mtime": 1786993196.9634278,
+    "seen": 1787257201.0151806,
+    "ast_hash": "e5f74d14a81702b55bdf53b33ec991d7",
+    "semantic_hash": "e5f74d14a81702b55bdf53b33ec991d7"
+  },
+  ".opencode/plugins/graphify.js": {
+    "mtime": 1786993196.9634278,
+    "seen": 1787257201.015184,
+    "ast_hash": "3ea725724bc8ebe483c9f13d6aa1124f",
+    "semantic_hash": "3ea725724bc8ebe483c9f13d6aa1124f"
+  },
+  "mvnw": {
+    "mtime": 1786986388.0,
+    "seen": 1787257201.015185,
+    "ast_hash": "ab50dd89da7da2346b28003352eeeeeb",
+    "semantic_hash": "ab50dd89da7da2346b28003352eeeeeb"
+  },
+  "pom.xml": {
+    "mtime": 1787256872.1027427,
+    "seen": 1787257201.0151858,
+    "ast_hash": "2062bac1bead6520b8d87c7356c1e777",
+    "semantic_hash": "2062bac1bead6520b8d87c7356c1e777"
+  },
+  "src/main/java/com/example/portsandadapters/PortsAndAdaptersJavaApplication.java": {
+    "mtime": 1786986388.0,
+    "seen": 1787257201.0151865,
+    "ast_hash": "d72ecb777cb9d128816d862bbd9119c8",
+    "semantic_hash": "d72ecb777cb9d128816d862bbd9119c8"
+  },
+  "src/test/java/com/example/portsandadapters/PortsAndAdaptersJavaApplicationTests.java": {
+    "mtime": 1787256841.81981,
+    "seen": 1787257201.0151896,
+    "ast_hash": "a409da7b785e11fe3632b7f6a50254fb",
+    "semantic_hash": "a409da7b785e11fe3632b7f6a50254fb"
+  },
+  ".serena/project.yml": {
+    "mtime": 1786993196.9634278,
+    "seen": 1787257201.0151923,
+    "ast_hash": "404b6f7d6466145cce69fdcfb96cd3a9",
+    "semantic_hash": "404b6f7d6466145cce69fdcfb96cd3a9"
+  },
+  "README.md": {
+    "mtime": 1786977999.045342,
+    "seen": 1787257201.015194,
+    "ast_hash": "4fbfc97c6083a56b52da50c0aaaf6b27",
+    "semantic_hash": "4fbfc97c6083a56b52da50c0aaaf6b27"
+  },
+  "docker-compose.yml": {
+    "mtime": 1787256841.8168948,
+    "seen": 1787257201.0151944,
+    "ast_hash": "fbec5798a332427feb3b516e181eb2e0",
+    "semantic_hash": "fbec5798a332427feb3b516e181eb2e0"
+  },
+  "docs/factor-i-codebase.md": {
+    "mtime": 1787035208.1748912,
+    "seen": 1787257201.0151954,
+    "ast_hash": "c45feb35b6658ba68edd8f9c4a3a1ed5",
+    "semantic_hash": "c45feb35b6658ba68edd8f9c4a3a1ed5"
+  },
+  "docs/factor-ii-dependencies.md": {
+    "mtime": 1787035208.1758912,
+    "seen": 1787257201.015196,
+    "ast_hash": "45ea3295dd374de1179cdb586b3c9415",
+    "semantic_hash": "45ea3295dd374de1179cdb586b3c9415"
+  },
+  "docs/ports-and-adapters-java-template.md": {
+    "mtime": 1787042077.4663785,
+    "seen": 1787257201.015197,
+    "ast_hash": "4db728812bb3d92ddb40beddc7896505",
+    "semantic_hash": "4db728812bb3d92ddb40beddc7896505"
+  },
+  "docs/twelve-factor-app.md": {
+    "mtime": 1786993196.9644902,
+    "seen": 1787257201.015199,
+    "ast_hash": "490b6695066e3322dbbbd38f344d00a2",
+    "semantic_hash": "490b6695066e3322dbbbd38f344d00a2"
+  },
+  "src/main/resources/application-dev.yaml": {
+    "mtime": 1787255216.1914134,
+    "seen": 1787255216.5841177,
+    "ast_hash": "9846272ac34ed01a8a18f8d44846bb10",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application-local.yaml": {
+    "mtime": 1787256841.8194287,
+    "seen": 1787257201.0151994,
+    "ast_hash": "a398cc3cc605424a3a2ea6fd9952f4c5",
+    "semantic_hash": "a398cc3cc605424a3a2ea6fd9952f4c5"
+  },
+  "src/main/resources/application-prod.yaml": {
+    "mtime": 1787255216.1916106,
+    "seen": 1787255216.584119,
+    "ast_hash": "c06c447a1621bbe153fa4b1afe22d723",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application.yaml": {
+    "mtime": 1787042077.4663785,
+    "seen": 1787257201.0152,
+    "ast_hash": "6a32d8312ac1e1554c74b456c6e6b1d3",
+    "semantic_hash": "6a32d8312ac1e1554c74b456c6e6b1d3"
+  },
+  "src/test/resources/application-test.yaml": {
+    "mtime": 1787255216.1922674,
+    "seen": 1787255216.5841208,
+    "ast_hash": "77909f43163420f08c25a707f8a1578d",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1787256872.1022995,
+    "seen": 1787257201.0151927,
+    "ast_hash": "f745a2959f26d55dd061281fca3ec06a",
+    "semantic_hash": "f745a2959f26d55dd061281fca3ec06a"
+  },
+  "CLAUDE.md": {
+    "mtime": 1787256872.1024742,
+    "seen": 1787257201.0151935,
+    "ast_hash": "3f66af08513a5129c811a5b84613541d",
+    "semantic_hash": "3f66af08513a5129c811a5b84613541d"
+  },
+  "docs/rules/twelve-factor.md": {
+    "mtime": 1787256872.1025436,
+    "seen": 1787257201.015198,
+    "ast_hash": "590c512cff4d32bf7da519d328089968",
+    "semantic_hash": "590c512cff4d32bf7da519d328089968"
+  },
+  "src/main/java/com/example/portsandadapters/infrastructure/config/FlywayMultiSchemaConfig.java": {
+    "mtime": 1787256841.819258,
+    "seen": 1787257201.0151873,
+    "ast_hash": "78764be77bcd4edfb28f7ab018dd9152",
+    "semantic_hash": "78764be77bcd4edfb28f7ab018dd9152"
+  },
+  "src/main/java/com/example/portsandadapters/infrastructure/config/FlywayProperties.java": {
+    "mtime": 1787256841.8192945,
+    "seen": 1787257201.015188,
+    "ast_hash": "fc1976714de31b984a0e1d1904fc6152",
+    "semantic_hash": "fc1976714de31b984a0e1d1904fc6152"
+  },
+  "src/test/java/com/example/portsandadapters/architecture/PortBindingAndDisposabilityTest.java": {
+    "mtime": 1787256872.1028128,
+    "seen": 1787257201.0151904,
+    "ast_hash": "aa9fa04b5588a89426ea73d1f357dc3a",
+    "semantic_hash": "aa9fa04b5588a89426ea73d1f357dc3a"
+  },
+  "src/test/java/com/example/portsandadapters/architecture/TwelveFactorArchitectureTest.java": {
+    "mtime": 1787256872.1028671,
+    "seen": 1787257201.0151908,
+    "ast_hash": "b34d18d3dbc4cafc516dbf4f97fa282e",
+    "semantic_hash": "b34d18d3dbc4cafc516dbf4f97fa282e"
+  },
+  "src/test/java/com/example/portsandadapters/infrastructure/config/FlywayMultiSchemaConfigTest.java": {
+    "mtime": 1787256841.8198946,
+    "seen": 1787257201.0151913,
+    "ast_hash": "1fb80cb3bae9ef2c54586bbe2df53b38",
+    "semantic_hash": "1fb80cb3bae9ef2c54586bbe2df53b38"
+  },
+  ".opencode/skills/audit-twelve-factor/SKILL.md": {
+    "mtime": 1787256872.1022995,
+    "seen": 1787257201.0151918,
+    "ast_hash": "25c766ba966233f07df149cd5ada096f",
+    "semantic_hash": "25c766ba966233f07df149cd5ada096f"
+  },
+  "src/test/resources/application-flyway-test.yaml": {
+    "mtime": 1787255216.1921515,
+    "seen": 1787255216.58412,
+    "ast_hash": "7143562806dbaa2f002d5635773f6422",
+    "semantic_hash": ""
+  },
+  "src/main/resources/db/migration/_shared/V1__placeholder.sql": {
+    "mtime": 1787256841.8196166,
+    "seen": 1787257201.0151887,
+    "ast_hash": "bdd794719e42451346cebeead02f3231",
+    "semantic_hash": "bdd794719e42451346cebeead02f3231"
+  },
+  "src/main/resources/db/migration/auth/V1__placeholder.sql": {
+    "mtime": 1787256841.819686,
+    "seen": 1787257201.0151892,
+    "ast_hash": "2fc0f3aaa3c61502ac36089541cae1a8",
+    "semantic_hash": "2fc0f3aaa3c61502ac36089541cae1a8"
+  },
+  "docs/tests-arquitectura.md": {
+    "mtime": 1787256872.1026464,
+    "seen": 1787257201.0151985,
+    "ast_hash": "a66fb71b16ae4d06ad3f3e32ed2f348a",
+    "semantic_hash": "a66fb71b16ae4d06ad3f3e32ed2f348a"
+  }
+}
