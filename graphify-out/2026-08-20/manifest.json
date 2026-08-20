@@ -1,0 +1,146 @@
+{
+  ".opencode/opencode.json": {
+    "mtime": 1786993196.9634278,
+    "seen": 1787250562.1068726,
+    "ast_hash": "e5f74d14a81702b55bdf53b33ec991d7",
+    "semantic_hash": ""
+  },
+  ".opencode/plugins/graphify.js": {
+    "mtime": 1786993196.9634278,
+    "seen": 1787250562.1068757,
+    "ast_hash": "3ea725724bc8ebe483c9f13d6aa1124f",
+    "semantic_hash": ""
+  },
+  "mvnw": {
+    "mtime": 1786986388.0,
+    "seen": 1787250562.1068783,
+    "ast_hash": "ab50dd89da7da2346b28003352eeeeeb",
+    "semantic_hash": ""
+  },
+  "pom.xml": {
+    "mtime": 1787250561.77244,
+    "seen": 1787250562.106879,
+    "ast_hash": "524bba3b4afdd04c4469125d1f57c357",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/example/portsandadapters/PortsAndAdaptersJavaApplication.java": {
+    "mtime": 1786986388.0,
+    "seen": 1787250562.1068797,
+    "ast_hash": "d72ecb777cb9d128816d862bbd9119c8",
+    "semantic_hash": ""
+  },
+  "src/test/java/com/example/portsandadapters/PortsAndAdaptersJavaApplicationTests.java": {
+    "mtime": 1787250561.77244,
+    "seen": 1787250562.1068804,
+    "ast_hash": "68a10b80fea585c12e9c92aaead04c91",
+    "semantic_hash": ""
+  },
+  ".serena/project.yml": {
+    "mtime": 1786993196.9634278,
+    "seen": 1787250562.1068811,
+    "ast_hash": "404b6f7d6466145cce69fdcfb96cd3a9",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1786977999.045342,
+    "seen": 1787250562.1068828,
+    "ast_hash": "4fbfc97c6083a56b52da50c0aaaf6b27",
+    "semantic_hash": ""
+  },
+  "docker-compose.yml": {
+    "mtime": 1787250561.77144,
+    "seen": 1787250562.1068833,
+    "ast_hash": "63c8852f97b8005beba308835b8d59e4",
+    "semantic_hash": ""
+  },
+  "docs/factor-i-codebase.md": {
+    "mtime": 1787035208.1748912,
+    "seen": 1787250562.1068857,
+    "ast_hash": "c45feb35b6658ba68edd8f9c4a3a1ed5",
+    "semantic_hash": ""
+  },
+  "docs/factor-ii-dependencies.md": {
+    "mtime": 1787035208.1758912,
+    "seen": 1787250562.1068861,
+    "ast_hash": "45ea3295dd374de1179cdb586b3c9415",
+    "semantic_hash": ""
+  },
+  "docs/ports-and-adapters-java-template.md": {
+    "mtime": 1787042077.4663785,
+    "seen": 1787250562.1068866,
+    "ast_hash": "4db728812bb3d92ddb40beddc7896505",
+    "semantic_hash": ""
+  },
+  "docs/twelve-factor-app.md": {
+    "mtime": 1786993196.9644902,
+    "seen": 1787250562.1068876,
+    "ast_hash": "490b6695066e3322dbbbd38f344d00a2",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application-dev.yaml": {
+    "mtime": 1787250561.77244,
+    "seen": 1787250562.1068885,
+    "ast_hash": "6cae4268bc894d05f27d80fda1635624",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application-local.yaml": {
+    "mtime": 1787250561.77244,
+    "seen": 1787250562.106889,
+    "ast_hash": "718af161a4356de2387aff05419b39b8",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application-prod.yaml": {
+    "mtime": 1787250561.77244,
+    "seen": 1787250562.1068895,
+    "ast_hash": "d11bddbffc4591acc97f8523ae908af9",
+    "semantic_hash": ""
+  },
+  "src/main/resources/application.yaml": {
+    "mtime": 1787042077.4663785,
+    "seen": 1787250562.1068897,
+    "ast_hash": "6a32d8312ac1e1554c74b456c6e6b1d3",
+    "semantic_hash": ""
+  },
+  "src/test/resources/application-test.yaml": {
+    "mtime": 1787250561.77244,
+    "seen": 1787250562.1068902,
+    "ast_hash": "3ebdbf0701c20f090158caa488fd2797",
+    "semantic_hash": ""
+  },
+  "docs/arnes/PortBindingAndDisposabilityTest.java": {
+    "mtime": 1787260454.0,
+    "seen": 1787250562.106877,
+    "ast_hash": "231068f3caf984e44753ddbed241f234",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1787083855.7866173,
+    "seen": 1787250562.1068816,
+    "ast_hash": "f745a2959f26d55dd061281fca3ec06a",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1787083855.784733,
+    "seen": 1787250562.106882,
+    "ast_hash": "3f66af08513a5129c811a5b84613541d",
+    "semantic_hash": ""
+  },
+  "docs/arnes/prompt-scaffold-hexagonal-12factor.md": {
+    "mtime": 1787249966.3977025,
+    "seen": 1787250562.1068838,
+    "ast_hash": "7c68155db3f33416f5b1da85c48a34ac",
+    "semantic_hash": ""
+  },
+  "docs/arnes/twelve-factor-ci.yml": {
+    "mtime": 1787260454.0,
+    "seen": 1787250562.106885,
+    "ast_hash": "01e4a427b81c5d6cd3c6bb946ede20a9",
+    "semantic_hash": ""
+  },
+  "docs/rules/twelve-factor.md": {
+    "mtime": 1787083880.6588457,
+    "seen": 1787250562.106887,
+    "ast_hash": "3d2946668f0ae0b1c1ad87f97c90ab27",
+    "semantic_hash": ""
+  }
+}
